@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://haseeb-portfolio.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&height=45&lines=Senior+Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+NestJS;Building+scalable%2C+real-time+systems" alt="Haseeb Ahmed" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&height=45&lines=Senior+Full+Stack+Developer;Building+scalable%2C+real-time+systems" alt="Haseeb Ahmed" />
 </a>
 
 <br/>
