@@ -19,7 +19,7 @@
 <a href="mailto:haseeb.ahm26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://haseeb-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=haseebthedev&label=Profile%20views&color=8B5CF6&style=flat-square" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=IamHaseebAhmad&label=Profile%20views&color=8B5CF6&style=flat-square" alt="views"/>
 
 </div>
 
