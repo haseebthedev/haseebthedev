@@ -10,11 +10,10 @@
 
 <br/>
 
-`Senior Software Engineer` · `4+ years` · `📍 Islamabad, Pakistan`
+`Senior Software Engineer` · `5+ years` · `📍 Islamabad, Pakistan`
 
-<a href="https://www.linkedin.com/in/haseebthedev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/iamhaseebahmad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/haseebthedev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://twitter.com/haseebthedev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter"/></a>
 <a href="https://stackoverflow.com/users/9801624/haseeb-ahmed"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 <a href="mailto:haseeb.ahm26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://haseeb-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -122,11 +121,6 @@ in-house video conferencing and real-time analytics to multi-tenant platforms se
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=haseebthedev&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF&bg_color=0D1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebthedev&layout=compact&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&bg_color=0D1117" alt="top langs" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebthedev&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" alt="streak" />
 
 </div>
@@ -143,7 +137,7 @@ in-house video conferencing and real-time analytics to multi-tenant platforms se
 
 Open to freelance work and interesting collaborations.
 
-**[haseeb.ahm26@gmail.com](mailto:haseeb.ahm26@gmail.com)** · **[Portfolio](https://haseeb-portfolio.netlify.app)** · **[LinkedIn](https://www.linkedin.com/in/haseebthedev/)**
+**[haseeb.ahm26@gmail.com](mailto:haseeb.ahm26@gmail.com)** · **[Portfolio](https://haseeb-portfolio.netlify.app)** · **[LinkedIn](https://www.linkedin.com/in/iamhaseebahmad/)**
 
 <sub>⚡ Clean, scalable design — shipped daily.</sub>
 
