@@ -33,9 +33,9 @@
 ```ts
 const haseeb = {
   role: "Senior Full Stack Developer",
-  focus: ["Scalable systems", "Real-time apps", "Cloud architecture"],
-  currently: "Building multi-tenant platforms @ NEST-IT",
-  stack: ["React", "TypeScript", "Node.js", "NestJS", "AWS"],
+  focus: ["Scalable systems", "Real-time apps", "Software architecture", "Cloud"],
+  currently: "Building cool stuff @ Hone",
+  stack: ["React", "ReactNative", "TypeScript", "Node.js", "NestJS", "AWS"],
   learning: ["System Design", "Microservices", "AI Integrations"],
   motto: "Clean, scalable design — shipped daily.",
 };
